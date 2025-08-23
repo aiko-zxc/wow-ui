@@ -1,37 +1,59 @@
 # WoW The War Within Aiko UI
 ![UI](screenshot/1.0.png)
 
-## Important EN
-I use bartender4 instad of Elvui action bars. You can enable elvui action bars doing the following: 
-type `/ec` in chat. Go to `Action bars` tab and check `enabled`.
+### Core Addons
 
-In case of questions or problems, my discord: `aiko.dev`
+#### 1. [Baganator](baganator/) - Inventory management
+- Main configuration: `Baganator.lua`
 
-## Important RU
-Я использую bartender4 вместо панелей комманд от Elvui. Панели комманд elvui вы можете включить самостоятельно: введите `/ec` в чате. Перейдите на вкладку `Панели команд` и отметьте `Включить`.
+#### 2. [Syndicator](baganator/) - Cross-character inventory (companion to Baganator)
+- Main configuration: `Syndicator.lua`
 
-В случае вопросов или проблем, мой discord: `aiko.dev`
+#### 3. [BigWigs](bigwigs/) - Boss encounter timers (Naowh edit)
+- **DPS Edition**: `dps.txt` (Modified)
 
-### 1. [Elvui (not healing things edit)](https://github.com/aiko-zxc/wow-tww-ui/blob/main/elvui/1.0.txt)
+#### 4. [BasicMinimap](bmm/) - Minimalist minimap
+- Configuration: `BasicMinimap.lua`
 
-### 2. [Elvui Wind Tools](https://github.com/aiko-zxc/wow-tww-ui/blob/main/elvui-wind-tools/1.0.txt)
+#### 5. [Details!](details/) - Damage meters (Quazii edit)
+- Configuration: `details.txt`
 
-### 3. [OmniCD](https://github.com/aiko-zxc/wow-tww-ui/blob/main/omni-cd/1.0.txt)
+#### 6. [Grid2](grid2/) - Raid frames
+- Configuration: `grid2.txt`
 
-### 4. [Plater (Jundies edit)](https://github.com/aiko-zxc/wow-tww-ui/blob/main/omni-cd/1.0.txt)
+#### 7. [ls: Toasts](lst/) - Notification system
+- Main configuration: `ls_Toasts.lua`
 
-### 5. [Details (Quazii edit)](https://github.com/aiko-zxc/wow-tww-ui/blob/main/details/1.0.txt)
+#### 8. [OmniCD](omni-cd/) - Cooldown tracking
+- Configuration: `omni-cd.txt`
 
-### 6. BigWigs (Naowh edit)
+#### 9. [Plater](plater/) - Nameplates (Jundies edit)
 
-#### 6.1 [Tank Edition](https://github.com/aiko-zxc/wow-tww-ui/blob/main/bigwigs/tank.txt)
+#### 10. [Prat](prat/) - Chat mod
+- Main configuration: `Prat-3.0.lua`
 
-#### 6.2 [DPS Edition](https://github.com/aiko-zxc/wow-tww-ui/blob/main/bigwigs/dps.txt)
+#### 11. [TipTac](tiptac/) - Tooltip enhancement
+- Configuration: `tiptac.txt`
 
-### 7. Weak auras
+#### 12. [UnitFramesImproved (UUF)](uuf/) - Unit frames
+- Configuration: `uuf.txt`
 
-#### 7.1 [Custom bl sound](https://github.com/aiko-zxc/wow-tww-ui/blob/main/weak-auras/custom-bl-sound/1.0.txt)
+### WeakAuras Collection
 
-#### 7.2 [Consumables, buffs and trinkets (Hijack-core edit)](https://github.com/aiko-zxc/wow-tww-ui/blob/main/weak-auras/hijack-core/1.0.txt)
+#### 13. [WeakAuras](weak-auras/) - Custom displays
+- Cast Bar: `cast-bar.txt`
+- CC Rotation: `cc-rotation.txt`
+- Chat Data: `chat-data.txt`
+- Frag Edit: `frag-edit.txt`
+- M+ Timer: `m+ timer.txt`
+- M+ Bars: `m+-bars.txt`
+- Vault: `vault.txt`
 
-#### 7.3 [Spell cd on nameplate (edit)](https://github.com/aiko-zxc/wow-tww-ui/tree/main/weak-auras/spell-cd-on-nameplate)
+### Layout Presets
+
+#### 14. [Blizzard UI Layout](blizz-layout/)
+- Configuration: `blizz.txt`
+
+---
+
+**Note**: Some configurations include `.bak` files which are backup versions of the main configuration files.
