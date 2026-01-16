@@ -1,0 +1,77 @@
+!BugGrabber
+AddonUsage
+AdvancedInterfaceOptions
+AngryKeystones
+ArchonTooltip
+Auctionator
+AuraUpdater
+AutoPotion
+Baganator
+Bartender4
+BasicMinimap- disabled
+BetterAddonList
+BetterCharacterPanel
+BetterLootMessage
+BetterWardrobe
+BigWigs
+BlizzBuffsMasque - disabled
+BlizzMove
+BlizzMove_Debug
+BtWQuests - disabled
+BugSack
+CanIMogIt
+CauseseDB
+Clique
+DejaCharacterStats
+Details
+DialogKey_Numy
+ElitismHelper
+FlashTaskBar
+FragUI - disabled
+FragUIEnhanced - disabled
+FriendGroups
+GlobalIgnoreList
+Grid2
+GTFO
+guess
+idTip
+IRememberYou
+Leatrix_Plus
+LegionRemixHelper
+LittleWigs
+ls_Toasts
+MinimapButtonButton - disabled
+MRT
+MythicDungeonTools
+NephUI - disabled
+OmniCC
+OmniCC_Config
+OmniCD
+OPie
+PingSounds
+Plater - disabled
+Platynator
+PremadeGroupsFilter
+Prat-3.0
+RaiderIO
+RareScanner
+Rarity - disabled
+RCLootCouncil
+RCLootCouncil_wowaudit
+SavedInstances
+SharedMedia
+SharedMedia_Aiko
+SharedMedia_Causese
+Simulationcraft
+Syndicator
+TalentLoadoutManager
+TeleportMenu
+TimelineReminders
+TipTac
+TomTom
+TradeSkillMaster - disabled
+TradeSkillMaster_AppHelper - disabled
+TrueStatValues
+UnhaltedUF
+WeakAuras
+WorldQuestTracker  - disabled
