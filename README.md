@@ -4,6 +4,8 @@
 
 ## RU
 
+Интерфейс для 2к мониторов, рекомендуемый масштаб интерфейса 0.58.
+
 ### Blizzard Edit Mode
 
 1. Escape
@@ -22,6 +24,8 @@
 ---
 
 ## EN
+
+This interface is for 2k displays. Recommended UI Scale is 0.58.
 
 ### Blizzard Edit Mode
 
