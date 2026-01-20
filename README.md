@@ -21,7 +21,7 @@
 4. Вставляем и применяем
 
 ### Unhalted Unit Frames - плеер таргет фреймы
-1. `/platy`
+1. `/uuf`
 2. **Profiles** → **Sharing options** → **Import string**
 3. Копируем [профиль](midnight/uuf.txt)
 4. Вставляем и применяем
