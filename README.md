@@ -31,8 +31,10 @@
 2. **Profiles** → **Sharing options** → **Import string**
 3. Копируем [профиль](midnight/uuf.txt)
 4. Вставляем и применяем
+5. Выставляем Global Profile, чтобы использовался на всех чарах
 
 **Ссылка:** [Unhalted Unit Frames на CurseForge](https://www.curseforge.com/wow/addons/unhaltedunitframes)
+
 
 
 ## BetterCooldownManager - кулдаун менеджер
@@ -41,9 +43,14 @@
 2. **Profiles** → **Import string**
 3. Копируем [профиль](midnight/bcm.txt)
 4. Вставляем и применяем
+5. Выставляем Global Profile, чтобы использовался на всех чарах
 
 **Ссылка:** [BetterCooldownManager на CurseForge](https://www.curseforge.com/wow/addons/bettercooldownmanager)
 
+## BigWigs
+1. `/bw`
+2. Копируем [профиль](midnight/big-wigs.txt)
+3. Вставляем и применяем
 
 ---
 
@@ -55,8 +62,6 @@
 * [WarpDeplete Mythic+ Timer](https://www.curseforge.com/wow/addons/warpdeplete) - М+ таймер!
 * [Targeted Spells](https://www.curseforge.com/wow/addons/targetedspells) - показывает когда в вас летят спеллы, вместо той самой ва
 * [DamageMeterFormatting](https://www.curseforge.com/wow/addons/damagemeterformatting) - импрув дпс окна
-* [Northern Sky Raid Tools](https://www.curseforge.com/wow/addons/northern-sky-raid-tools) - много штук полезных для рейда
-
 ---
 
 ## Другие полезные аддоны (которые были в tww, но не факт, что обновлены, проверяем)
@@ -64,7 +69,7 @@
 * [BlizzMove](https://www.curseforge.com/wow/addons/blizzmove) - перетаскивание окон Blizzard мышкой
 * [idTip](https://www.curseforge.com/wow/addons/idtip) - ID предметов и заклинаний в тултипах
 * [Baganator](https://www.curseforge.com/wow/addons/baganator) - объединенные сумки всех персонажей с поиском
-* [MinimapStats](https://www.curseforge.com/wow/addons/minimapstats) - время, координаты, ФПС на миникарте
+* [MinimapStats](https://www.curseforge.com/wow/addons/minimapstats) - время, координаты, ФПС на миникарте, мой [профиль](midnight/minimap-stats.txt)
 * [DejaCharacterStats](https://www.curseforge.com/wow/addons/dejacharacterstats) - импрув окна персонажа
 * [Talent Loadout Manager](https://www.curseforge.com/wow/addons/talent-loadout-manager) - больше 10 наборов талантов
 * [DialogKey - Numy Edition](https://www.curseforge.com/wow/addons/dialogkey-numy-edition) - хоткеи для диалоговых окон
