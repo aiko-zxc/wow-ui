@@ -62,7 +62,6 @@
 * [Leatrix Plus](https://www.curseforge.com/wow/addons/leatrix-plus) - Quality of Life апгрейды, `/ltp` для конфига
 * [WarpDeplete Mythic+ Timer](https://www.curseforge.com/wow/addons/warpdeplete) - М+ таймер!
 * [Targeted Spells](https://www.curseforge.com/wow/addons/targetedspells) - показывает когда в вас летят спеллы, вместо той самой ва
-* [DamageMeterFormatting](https://www.curseforge.com/wow/addons/damagemeterformatting) - импрув дпс окна
 ---
 
 ## Другие полезные аддоны (которые были в tww, но не факт, что обновлены, проверяем)
