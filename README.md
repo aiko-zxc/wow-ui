@@ -52,6 +52,7 @@
 2. Копируем [профиль](midnight/big-wigs.txt)
 3. Вставляем и применяем
 
+**Ссылка:** [BigWigs на CurseForge](https://www.curseforge.com/wow/addons/big-wigs)
 ---
 
 ## Обязательные аддоны (уже обновлены)
