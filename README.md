@@ -2,19 +2,33 @@
 
 ![UI Screenshot](screens/ui.jpg)
 
-A short guide for the WoW Midnight UI.
+A clean and minimal UI designed for PvE content, including Mythic+ and raids.
 
-- Designed for `2K` resolution; UI scale: `0.58`.
+## Resolution Support
+
+- **1080p** — UI scale: `0.69`
+- **1440p** — UI scale: `0.58`
 
 ## Profiles
 
-- [Blizzard Edit Mode](https://github.com/aiko-zxc/wow-ui/blob/main/midnight/blizz.txt)
-- [EllesmereUI](https://github.com/aiko-zxc/wow-ui/blob/main/midnight/eui.txt)
-- [BigWigs](https://github.com/aiko-zxc/wow-ui/blob/main/midnight/big-wigs.txt)
-- [Targeted Spells - Party](https://github.com/aiko-zxc/wow-ui/blob/main/midnight/targeted-spells-party.txt)
-- [Targeted Spells - Player](https://github.com/aiko-zxc/wow-ui/blob/main/midnight/targeted-spells-player.txt)
+### 1080p
+
+- [Blizzard Edit Mode](midnight/blizz-1080p.txt)
+- [EllesmereUI](midnight/eui-1080p.txt)
+- [BigWigs](midnight/big-wigs-1080p.txt)
+
+### 1440p
+
+- [Blizzard Edit Mode](midnight/blizz-1440p.txt)
+- [EllesmereUI](midnight/eui-1440p.txt)
+- [BigWigs](midnight/big-wigs-1440p.txt)
+
+### Universal
+
+- [Targeted Spells](midnight/targeted-spells.txt)
 
 ## Full Addon List
+
 - EllesmereUI
 - BigWigs
 - Targeted Spells
@@ -41,21 +55,21 @@ A short guide for the WoW Midnight UI.
 
 ## Fonts
 
-Most of the UI uses the Expressway font. For the full experience, it is recommended to replace the default Blizzard addon fonts with Expressway as well.
+Most of the UI uses the Expressway font. For the full experience, it is recommended to replace the default Blizzard fonts with Expressway as well.
 
 Download [`fonts.zip`](midnight/fonts.zip)
 
 Inside the archive:
 
-- `index.ttf` - Expressway font
-- `index.bat` - Font replacement script
+- `index.ttf` — Expressway font
+- `index.bat` — Font replacement script
 
-To install:
+### Installation
 
 1. Extract `index.ttf` and `index.bat` to your WoW `Fonts` folder:
    `F:\Games\World of Warcraft\_retail_\Fonts\`
 2. Run `index.bat`.
-3. The script will create 19 copies of `index.ttf` using the default WoW font filenames, replacing the game's default fonts with Expressway.
+3. The script will create copies of `index.ttf` using WoW's default font filenames.
 4. Launch WoW.
 
 ## After Installation
